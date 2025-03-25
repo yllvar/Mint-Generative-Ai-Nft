@@ -6,7 +6,7 @@ This project is a full-stack web application that enables users to mint unique N
 
 - **Next.js**: For the frontend and API routes
 - **Solana Blockchain**: For NFT minting and wallet interactions
-- **Replicate API**: For AI image generation
+- **Replicate API**: For deepseek-ai/janus-pro-1b AI image generation
 - **Tailwind CSS & shadcn/ui**: For responsive UI components
 
 The platform allows users to:
