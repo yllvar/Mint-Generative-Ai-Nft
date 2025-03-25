@@ -1,5 +1,4 @@
 # Solana with deepseek-ai / janus-pro-1b NFT Minting Platform: Technical Documentation
-<img width="327" alt="Screenshot 2025-03-26 at 02 42 30" src="https://github.com/user-attachments/assets/d67fe178-4c64-4287-8793-c7d7c47b04ee" />
 
 ## 1. System Overview
 
