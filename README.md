@@ -1,4 +1,5 @@
 # Solana AI-Generated NFT Minting Platform: Technical Documentation
+<img width="327" alt="Screenshot 2025-03-26 at 02 42 30" src="https://github.com/user-attachments/assets/d67fe178-4c64-4287-8793-c7d7c47b04ee" />
 
 ## 1. System Overview
 
@@ -355,4 +356,3 @@ The project follows several key engineering principles:
 7. **User Experience**: Loading states, error handling, and intuitive UI for a smooth user experience.
 
 This documentation provides a comprehensive overview of the Solana AI-Generated NFT Minting Platform's design and engineering. The modular architecture allows for easy maintenance and future enhancements while providing a seamless user experience for minting unique AI-generated NFTs on the Solana blockchain.
-```
